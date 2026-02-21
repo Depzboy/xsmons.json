@@ -1,6 +1,4 @@
 {
-  "allowed_keys": [
-    "heckdatabase"
-  ]
+  "allowed_keys": ["1"]
 }
 
